@@ -6,7 +6,7 @@
           "Age" : "40"
           "Email" :  "USERID.01@EMAIL.COM",
           "Is Active" :  "True",
-          "Roles" ["Employee". "Manager", "Admin"]
+          "Roles" ["Employee", "Manager", "Admin"]
       },
 
     {
@@ -15,7 +15,7 @@
           "Age" : "25"
           "Email" :  "USERID.02@EMAIL.COM",
           "Is Active" :  "False",
-          "Roles" ["Employee". "Manager", "Admin"]
+          "Roles" ["Employee", "Manager", "Admin"]
       },
 
  {
@@ -24,7 +24,7 @@
           "Age" : "35"
           "Email" :  "USERID.03@EMAIL.COM",
           "Is Active" :  "True",
-          "Roles" ["Employee". "Manager", "Admin"]
+          "Roles" ["Employee", "Manager", "Admin"]
       },
 
  {
