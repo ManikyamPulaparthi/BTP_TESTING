@@ -1,0 +1,41 @@
+{
+   "users":[
+        {
+          "User ID":"1",
+          "User Name": "USER 01",
+          "Age" : "40"
+          "Email" :  "USERID.01@EMAIL.COM",
+          "Is Active" :  "True",
+          "Roles" ["Employee". "Manager", "Admin"]
+      },
+
+    {
+          "User ID":"2",
+          "User Name": "USER 02",
+          "Age" : "25"
+          "Email" :  "USERID.02@EMAIL.COM",
+          "Is Active" :  "False",
+          "Roles" ["Employee". "Manager", "Admin"]
+      },
+
+ {
+          "User ID":"3",
+          "User Name": "USER 03",
+          "Age" : "35"
+          "Email" :  "USERID.03@EMAIL.COM",
+          "Is Active" :  "True",
+          "Roles" ["Employee". "Manager", "Admin"]
+      },
+
+ {
+          "User ID":"4",
+          "User Name": "USER 04",
+          "Age" : "24"
+          "Email" :  "USERID.01@EMAIL.COM",
+          "Is Active" :  "True",
+          "Roles" ["Employee". "Manager", "Admin"]
+      }
+]
+
+
+}
